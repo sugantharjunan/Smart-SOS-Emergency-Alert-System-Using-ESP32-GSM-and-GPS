@@ -199,5 +199,11 @@ https://maps.google.com/?q=11.323078,77.674987
 * GSM Communication
 * GPS Tracking
 
+---
 
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
 This project is open-source and available for educational and research purposes.
